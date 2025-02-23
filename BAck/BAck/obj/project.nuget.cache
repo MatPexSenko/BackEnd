@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bdYgSJgwCSM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wwwvl\\Documents\\Веб\\WebApplication1\\WebApplication1\\BackEnd\\BAck\\BAck\\BAck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wwwvl\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\wwwvl\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
